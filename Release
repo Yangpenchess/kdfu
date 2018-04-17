@@ -1,0 +1,8 @@
+Origin: yapdeb.github.io/kdfu/
+Label: yapdeb.github.io/kdfu/
+Suite: stable
+Version: 1.5
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: yapdeb.github.io/kdfu/

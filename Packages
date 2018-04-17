@@ -1,0 +1,14 @@
+Package: io.github.coolbooter
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Yang
+Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
+Filename: /coolbooter.deb
+Size: 28631414
+MD5sum: 5CFE299E7B2B8211CFFBAC77D695807B
+SHA1: 5FCCE08B91092E64B23D978682BACFA6FDA4E4BD
+SHA256: 482ECD753853F4E35E1B0E47FEB4E470EB8CD98B0994AFE02D9E6A68B45E425B
+Section: System
+Description: coolbooter for ios
+Author: Yang
+Name: coolbooter
